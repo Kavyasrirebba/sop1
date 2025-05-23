@@ -372,6 +372,37 @@ transform: rotate(-25deg);
     margin-right: 8px;
     line-height: 1.2;
   }
+
+ @media (max-width:992px){
+    .houses-section {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        position: relative;
+        gap: 300px;
+      }
+      .arrow-left-to-middle {
+        top: 865px;
+        left: 280px;
+        transform: rotate(25deg);
+        }
+        
+        .arrow-middle-to-right {
+        top: 865px;
+        right: 280px;
+        transform: rotate(-20deg);
+        }
+
+        .arrow-icon {
+            position: absolute;
+            color: white;
+            font-size: 90px;
+            }
+            .parenting-main p{
+                font-size: 26px;
+                font-weight: bold;
+            }
+  }
   
 
 
