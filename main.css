@@ -379,7 +379,7 @@ transform: rotate(-25deg);
         justify-content: center;
         align-items: flex-start;
         position: relative;
-        gap: 300px;
+        gap: 350px;
       }
       .arrow-left-to-middle {
         top: 890px;
@@ -415,8 +415,8 @@ transform: rotate(-25deg);
               
               .roof {
                 position: relative;
-                width: 250px;
-                height: 60px;
+                width: 237px;
+                height: 65px;
                 margin: 0 auto 10px auto;
                 }
                 
@@ -430,6 +430,7 @@ transform: rotate(-25deg);
                 background-color: white;
                 transform-origin: top;
                 }
+                
             }
                 
                 
